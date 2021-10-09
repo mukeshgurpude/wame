@@ -1,0 +1,3 @@
+# Wa-Me
+
+Simple page to send message to whatsapp number without saving it in phone...
